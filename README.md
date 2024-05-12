@@ -7,5 +7,4 @@
 - 💬 I am also brushing up SQL to study the effecient way of processing data.
 - 📫 How to reach me: [debra321@hotmail.com](debra321@hotmail.com)
 
-### 🤝🏻 Connect with Me
-![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
