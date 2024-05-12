@@ -1,4 +1,4 @@
-### Hi there 👋 I am [Debra](https://ethostudio.blogspot.com/)
+### Hi there 👋 I am Debra,
 
 - 🔭 I own [Ethos Studio](https://ethostudio.blogspot.com/), providing professional graphic design services.
 - 🌱 I have developed native applications on embedded systems for 6 years.
