@@ -5,6 +5,7 @@
 - 👯 Now I work as a front-end developer in React.
 - 🤔 I have been used to brush up to practice algorthm and data structure design and figure things out.
 - 💬 I am also brushing up SQL to study the effecient way of processing data.
-- 📫 How to reach me: debra321@
-- ⚡ Fun fact: ...
+- 📫 How to reach me: [debra321@hotmail.com](debra321@hotmail.com)
 
+### 🤝🏻 Connect with Me
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
