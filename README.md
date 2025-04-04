@@ -4,7 +4,7 @@
 - 🌱 I had developed native applications on embedded systems for 6 years.
 - 👯 Now I work as a front-end developer in React.
 - 🤔 I regularly brush up to find fun in algorthm and data structure design.
-- 💬 [Articles by me](https://jadecubes.gitbook.io/workspace/)
+- 💬 [Articles by me](https://medium.com/@yufangSaid)
 
 ### Skills
 
