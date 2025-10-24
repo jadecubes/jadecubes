@@ -1,4 +1,4 @@
-### Hi there,
+### ![Waving Hand](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png) Hi there,
 
 - 🔭 I own [Ethos Studio](https://ethostudio.blogspot.com/), providing professional graphic design services.
 - 🌱 I had developed native applications on embedded systems for 6 years.
