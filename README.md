@@ -1,6 +1,6 @@
 # Hello there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" height="40" />
 
-Welcome to my GitHub profile 👋
+Welcome to my GitHub profile!
 
 
 - 🔭 I own [Ethos Studio](https://ethostudio.blogspot.com/), providing professional graphic design services.
