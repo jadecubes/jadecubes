@@ -22,10 +22,6 @@ I'm a versatile developer with a unique blend of hardware and software expertise
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jadecubes&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadecubes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
 ## Skills & Technologies
 
 ### Frontend Development
